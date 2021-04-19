@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.imageBook img {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.footer {
+  width: 600px;
+  margin: 10px auto;
+  font-size: 18px;
+  text-align: center;
+}
+
+.pageItem {
+  color: rgb(8, 74, 173);
+}
+
+.active {
+  font-weight: 900;
+}
