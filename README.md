@@ -1,3 +1,11 @@
+Приложение по поиску книг
+
+Основано на Google Books API
+
+React + Redux
+
+[Тест приложения](https://robertd2000.github.io/GoogleBooks/)
+
 Application with Google Books API
 
 Builded by React + Redux (Redux toolkit)
